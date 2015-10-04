@@ -1,5 +1,7 @@
-$body-bg: #DCC6E0;
-$navbar-inverse-bg: #BF55EC;
+$body-bg: #ecf0f1;
+$navbar-inverse-bg: #27ae60;
 $navbar-inverse-link-color: white;
-$jumbotron-bg: silver;
-@import 'bootstrap' ; 
+$brand-primary: #f39c12;
+$jumbotron-bg: #bdc3c7;
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
